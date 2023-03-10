@@ -1,6 +1,14 @@
 # <font color="#ff0000">**<sup>凸</sup>新东方**</font> 2xdf, 一个准Obsidian开箱即用的垫脚石库，欢迎踩踏😀
 an obsidian example vault for people at their later fifties in Chinese language, English version on the way but may never ever arrive 😀😀😀
 
+## 使用 Obsidian 来做笔记记录，需要会写代码、写脚本、编程、懂Dataview、 Quickadd等插件才行么？
+
+答案是：**不。不需要懂代码，也不需要写脚本，更不需懂Datatview, Quickadd等插件**。所有需要的，就是一个**包含了所有应该示例的Obsidian库，简单的替换库内的_目录别名、标签，路径_，仿照现成的Dataview查询示例，完成新的符合需求的笔记查询、管理。**
+
+这里提供的是一个**准Obsidian开箱即用的垫脚石库**。希望它能够名副其实，更希望大家一起来让它**名副其实**
+
+## **<sup>凸</sup>新东方**库简介
+
 **首先，本库是一个简单的Obsidian目录结构库**
 
 本库意在为正式开始使用Obsidian笔记软件之前，建立一个固定的、可以长期使用的**目录结构**，以便在多年以后，依旧可以根据这个库里所作的记录，查看当年所做的笔记，从而达到Obsidian所说的 _Notes for Your Grandchildren_。
@@ -20,6 +28,8 @@ Obsidian，作为可以替代纸质笔记本的电子笔记软件，有着很多
 - Obsidian 大佬们提供或分享的，以及网上收集来的一些**可以借鉴的笔记**汇集，大部分来自本库提及的**优秀示例库**
 - 本人遇到并记录下来的一些**调整Blue Topaz 主题设置的方法介绍**(仅适用于Simplicty配色)
 - 其它**在使用 Obsidian 时协同工作的一些软件的使用方法**，比如 VScode 的用法
+
+## 感谢
 
 由于本人的计算机知识有限，还远不能很好的使用 Obsidian 这个号称为**第二大脑**的笔记软件，因此，**本库**大量借鉴了 Obsidian 的 Blue Topaz示例库 https://github.com/PKM-er/Blue-topaz-example 内的内容，并得到了示例库作者 [[cuman]] 大佬的很多帮助，在创建本库的过程中，同时还得到了众多 **Obsidian_Topaz社区**（QQ 群号 908688452）和 **Obsidian QQ 群**（Obsidian QQ 群 774176839）群中的众多群友、群中、Obsidian大佬的帮助，在此，表示衷心感谢！🤝
 
