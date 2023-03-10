@@ -3,9 +3,13 @@ an obsidian example vault for people at their later fifties in Chinese language,
 
 ## 使用 Obsidian 来做笔记记录，需要会写代码、写脚本、编程、懂Dataview、 Quickadd等插件才行么？
 
-答案是：**不。不需要懂代码，也不需要写脚本，更不需懂Datatview, Quickadd等插件**。所有需要的，就是一个**包含了所有应该示例的Obsidian库，简单的替换库内的_目录别名、标签，路径_，仿照现成的Dataview查询示例，完成新的符合需求的笔记查询、管理。**
+答案是：**不。不需要懂代码，也不需要写脚本，更不需懂Datatview, Quickadd等插件**。所有需要的，就是一个**包含了所有应用场景示例笔记的Obsidian库，通过简单的替换库内的**_目录别名、标签，路径_，**仿照现成的Dataview查询示例，完成新的符合需求的笔记查询、管理。**
 
 这里提供的是一个**准Obsidian开箱即用的垫脚石库**。希望它能够名副其实，更希望大家一起来让它**名副其实**
+
+**本库的最终目的：称为一个可以完全脱离网络存在、现实生活中纸质笔记本的替代品，一个可以长期使用的电子笔记本，一个真正的可以“notes for your grandchildren"电子笔记本。**
+
+要达到本库的最终目的，还有很长的路要走。希望**这条路上有你**。
 
 ## **<sup>凸</sup>新东方**库简介
 
