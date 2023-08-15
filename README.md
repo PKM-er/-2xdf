@@ -1,5 +1,8 @@
+
+
+
 # <font color="#ff0000">**<sup>凸</sup>新东方**</font> 2xdf, 一个准Obsidian开箱即用的垫脚石库，欢迎踩踏😀
-an obsidian example vault for people at their later fifties in Chinese language, English version on the way but may never ever arrive 😀😀😀
+An obsidian example vault for people at their later fifties with limited PC skills in Chinese language, English version on the way..., hopefully it could be on the web soon 😀😀😀
 
 ## 使用 Obsidian 来做笔记记录，需要会写代码、写脚本、编程、懂Dataview、 Quickadd等插件才行么？
 
@@ -39,8 +42,8 @@ Obsidian，作为可以替代纸质笔记本的电子笔记软件，有着很多
 
 由于本人的计算机知识有限，还远不能很好的使用 Obsidian 这个号称为**第二大脑**的笔记软件，因此，**本库**大量借鉴了 Obsidian 的 Blue Topaz示例库 https://github.com/PKM-er/Blue-topaz-example 内的内容，并得到了示例库作者 **cuman大佬**的很多帮助，在创建本库的过程中，同时还得到了众多 **Obsidian_Topaz社区**（QQ 群号 908688452）和 **Obsidian QQ 群**（Obsidian QQ 群 774176839）群中的众多群友、各位群主、Obsidian大佬们的帮助，在此，表示衷心感谢！🤝（对于后期帮助过本人建立本库的网友的感谢，全都会写入本库的笔记内容中）
 
-#### 理解并掌握**本库介绍的方法**，无论**使用**或**不使用**本库的**本库目录结构**，对如何将**优秀示例库**库融入到**自己的库**中，都或许有些些许的帮助。 
+###### 理解并掌握**本库介绍的方法**，无论**使用**或**不使用**本库的**本库目录结构**，对如何将**优秀示例库**库融入到**自己的库**中，都或许有些些许的帮助……
 
-## 欢迎加入 共建2XDF QQ群 763597217
+### 欢迎您指导和试用 <font color="#ff0000">**<sup>凸</sup>新东方**</font>2XDF Obsidian 库（QQ群 763597217） 
 ![共建2XDF群聊二维码](https://user-images.githubusercontent.com/119090113/229754614-ab45f692-caa1-472b-b28c-104e310034ca.png)
 
